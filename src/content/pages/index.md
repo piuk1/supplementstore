@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Your Ultimate Destination for Premium Supplements
 tagline: Empowering Your Health Journey with Quality Supplements
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/supplement-store.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
